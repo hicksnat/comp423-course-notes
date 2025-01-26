@@ -59,3 +59,5 @@ After clicking this option, your dev container should be all set up! Now let's r
 
 
 
+## Notes: It looks good to me! I would change it so that it tells you to cd into the src directory
+##        and then it tells you to use ./main to run the program
